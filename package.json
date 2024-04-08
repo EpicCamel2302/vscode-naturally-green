@@ -4,6 +4,7 @@
     "description": "A deep green theme with healthy contrast for nature lovers",
     "version": "1.0.0",
     "publisher": "FaxxMachine",
+    "icon": "./images/icon.png",
     "repository": "https://github.com/EpicCamel2302/vscode-naturally-green",
     "engines": {
         "vscode": "^1.87.0"
