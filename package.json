@@ -1,0 +1,21 @@
+{
+  "name": "naturally-green",
+  "displayName": "Naturally Green",
+  "description": "A deep green theme with healthy contrast for nature lovers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Naturally Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Naturally Green-color-theme.json"
+      }
+    ]
+  }
+}
