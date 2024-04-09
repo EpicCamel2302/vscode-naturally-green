@@ -179,6 +179,7 @@
             "name": "js/ts import keyword",
             "scope": "keyword.operator.expression.import",
             "settings": {
+                "fontStyle": "italic",
                 "foreground": "#538bad"
             }
         },
@@ -200,6 +201,7 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#a776ab"
             }
         },
@@ -315,6 +317,7 @@
             "name": "css property-name",
             "scope": "support.type.vendored.property-name.css",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#b48b57"
             }
         },
@@ -322,6 +325,7 @@
             "name": "js/ts module",
             "scope": "support.module.node,support.type.object.module,support.module.node",
             "settings": {
+                "fontStyle": "italic",
                 "foreground": "#a776ab"
             }
         },
@@ -356,6 +360,7 @@
                 "keyword.operator.expression.keyof"
             ],
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#bcbe71"
             }
         },
@@ -377,6 +382,7 @@
             "name": "js console function",
             "scope": "entity.name.function,support.function.console",
             "settings": {
+                "fontStyle": "italic bold",
                 "foreground": "#538bad"
             }
         },
@@ -687,6 +693,7 @@
             "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
             "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#bcbe71"
             }
         },
@@ -792,7 +799,6 @@
             "name": "Attribute IDs",
             "scope": "entity.other.attribute-name.id",
             "settings": {
-                "fontStyle": "normal",
                 "foreground": "#538bad"
             }
         },
@@ -800,7 +806,6 @@
             "name": "Attribute class",
             "scope": "entity.other.attribute-name.class.css",
             "settings": {
-                "fontStyle": "normal",
                 "foreground": "#64a162"
             }
         },
